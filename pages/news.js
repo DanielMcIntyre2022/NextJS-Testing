@@ -8,4 +8,4 @@ function NewsPage() {
 
 }
 
-export default HomePage;
+export default NewsPage;
